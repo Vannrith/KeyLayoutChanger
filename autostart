@@ -1,0 +1,2 @@
+##set keyboard map for default start up, you can change to whatever you want, see the language support of your distro
+setxkbmap us &

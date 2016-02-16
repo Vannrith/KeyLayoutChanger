@@ -1,0 +1,8 @@
+<!--Keybinding for changing the language, you can change it to whatever you want, but make sure it's not existed -->
+<!--In this case, i'm using Windows key + Spacebar -->
+<!--add this to your keybidning section in your rc.xml, by default it's in ~/.config/openbox/rc.xml -->
+<keybind key="W-space">
+      <action name="Execute">
+        <command>/usr/local/bin/layout.sh</command>
+      </action>
+ </keybind>
